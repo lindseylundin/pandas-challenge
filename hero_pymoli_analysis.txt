@@ -1,0 +1,7 @@
+Heroes Of Pymoli Written Analysis:
+
+1.) While 84% of players are male, only 82% of sales revenue is from male players, so female players spend more on average per person than male players.
+
+2. The most any one player has spent is less than $10.00
+
+3. Almost half (46.81%) of sales revenue comes from players ages 20-24
